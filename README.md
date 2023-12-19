@@ -1,5 +1,7 @@
 # Sorting-Visualizer
 
+![Sorting Visualizer Demo](screenshots/screen.gif)
+
 ## Overview
 
 The Sorting Visualizer is a web application that provides a real-time visualization of various sorting algorithms. Users can interact with the application to understand how algorithms like Bubble Sort, Merge Sort, and Quick Sort work by observing the sorting process visually.
