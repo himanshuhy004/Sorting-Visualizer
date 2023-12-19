@@ -1,8 +1,42 @@
-#Sorting-Visualizer
+# Sorting-Visualizer
 
+## Overview
 
-Project Context :
-We have learnt sorting algorithms like bubble sort, selection sort, insertion sort, quick sort. But often we fail to understand the core idea of a particular algorithm maybe because we are unable to visualize how they work. So the most important thing to understand about these algorithms is visualization.
-Made this project to let everyone understand how these algorithms work and through this project you also will get a deep understanding of such sorting algorithms.
+The Sorting Visualizer is a web application that provides a real-time visualization of various sorting algorithms. Users can interact with the application to understand how algorithms like Bubble Sort, Merge Sort, and Quick Sort work by observing the sorting process visually.
 
-Our project visualizes four most commonly used sorting algorithms: bubble sort, selection sort, insertion sort, quick sort. User could run the program on a local machine and see how each algorithm works in action, and how elements are swapped in the array to get to the sorted array in the end. Our program also measures and displays the actual run-time of each sorting algorithm on the screen.   
+## Features
+
+- **Algorithm Visualization:** Real-time visualization of popular sorting algorithms.
+- **User Customization:** Adjustable algorithm speed and different data set sizes for a personalized experience.
+- **Responsive Design:** Cross-browser compatibility and responsive design for seamless user interaction on various devices.
+- **Code Optimization:** Efficient sorting algorithms for smooth performance, even with large datasets.
+- **Error Handling:** Robust error handling to gracefully manage unexpected user inputs and prevent application crashes.
+
+## Technologies Used
+
+- JavaScript
+- HTML
+- CSS
+
+## Getting Started
+
+### Prerequisites
+
+- Web browser (Chrome, Firefox, Safari, etc.)
+
+## Usage
+
+1. **Opening the application:**
+   - Open the web application in your preferred browser.
+
+2. **Adjust Speed and Data Set Size:**
+   - Use the provided controls to adjust the speed of the visualization.
+   - Select a data set size using scroll bar to observe how the algorithm performs with different input sizes.
+
+3. **Visualize the Sorting Process:**
+   - Select the sorting algorithm you want to visualize (e.g., Bubble Sort, Merge Sort, Quick Sort, etc).
+   - Observe the real-time visualization of the sorting process, with elements being rearranged according to the chosen algorithm.
+
+4. **Explore and Learn:**
+   - Reset the visualization to explore the algorithm's behavior at different stages.
+   - Gain insights into how each algorithm works and understand their efficiency in sorting different data sets.
