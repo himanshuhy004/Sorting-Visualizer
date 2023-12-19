@@ -29,7 +29,7 @@ The Sorting Visualizer is a web application that provides a real-time visualizat
 ## Usage
 
 1. **Opening the application:**
-   - Open the web application in your preferred browser.
+   - Open the [web application](https://himanshuhy004.github.io/Sorting-Visualizer/) in your preferred browser.
 
 2. **Adjust Speed and Data Set Size:**
    - Use the provided controls to adjust the speed of the visualization.
