@@ -1,6 +1,6 @@
 # Sorting-Visualizer
 
-![Sorting Visualizer Demo](screenshots/screen.gif)
+![Sorting Visualizer Demo](Screenshots/screen.gif)
 
 ## Overview
 
